@@ -2,7 +2,7 @@
 
 # 🐳 Docker for AI & DevOps Engineering
 
-**A complete, hands-on Docker course in 34 topics — from installation and Dockerfiles to volumes, multi-stage builds, Compose, AWS ECR/ECS, GitHub & GitLab CI/CD, networking, Swarm, secrets and monitoring.**
+**A complete, hands-on Docker course in 34 topics, from installation and Dockerfiles to volumes, multi-stage builds, Compose, AWS ECR/ECS, GitHub & GitLab CI/CD, networking, Swarm, secrets and monitoring.**
 
 ![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-Multi--container-2496ED?logo=docker&logoColor=white)
@@ -17,7 +17,7 @@
 
 ## 🎯 About this course
 
-Practical Docker notes written while running every demo on a Linux VM — commands, real terminal output, diagrams and worked practical solutions, arranged in the order you should learn them.
+Practical Docker notes written while running every demo on a Linux VM: commands, real terminal output, diagrams and worked practical solutions, arranged in the order you should learn them.
 
 ---
 
@@ -116,18 +116,18 @@ docker-for-ai-and-devops-engineering/
 ## 🚀 How to use it
 
 1. Start with **topic 01** to install Docker on RHEL 9, then follow the topics in order.
-2. Run every command on a Linux VM — the notes include the expected output.
+2. Run every command on a Linux VM. The notes include the expected output.
 3. Use the **Practical Phase** topics (09, 10, 17, 22) to test yourself.
 
 ---
 
 ## 👨‍🏫 About the author
 
-**Ahmad Hassan** — AI/ML Engineer & Instructor with 5+ years of experience
+**Ahmad Hassan** | AI/ML Engineer & Instructor with 5+ years of experience
 1,500+ hours of live teaching, 100+ students mentored from medicine, business and engineering into data and DevOps roles.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ahmadhassan--aiops.github.io-0EA5A4)](https://ahmadhassan-aiops.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad%20Hassan-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-hassan-79a44b1a3)
 [![GitHub](https://img.shields.io/badge/GitHub-ahmadhassan--aiops-181717?logo=github&logoColor=white)](https://github.com/ahmadhassan-aiops)
 
-⭐ If these notes help you learn Docker, please star the repo — it helps other students find it!
+⭐ If these notes help you learn Docker, please star the repo. It helps other students find it!
